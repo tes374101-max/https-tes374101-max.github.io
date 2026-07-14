@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://tes374101-max.github.io/colorful-nirnir/sitemap.xml
